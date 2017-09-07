@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Nautae.Views.loginPage">
+    <StackLayout x:Name="MasterLayout">
+        <StackLayout x:Name="ImageLayout">
+            <Image x:Name="LoginIcon" Source="logo_icon.png" Margin="0,80,0,0" VerticalOptions="FillAndExpand" WidthRequest="75" HeightRequest="75"/>
+        </StackLayout>
+        <StackLayout x:Name="TextLayout" VerticalOptions="CenterAndExpand">
+            <StackLayout.Padding>
+                <OnIdiom x:TypeArguments="Thickness">
+                    <OnIdiom.Phone>40,0,40,0
+                    </OnIdiom.Phone>
+                </OnIdiom>
+
+            </StackLayout.Padding>
+
+            <ActivityIndicator x:Name="ActivitySpinner" Color="Red" IsRunning="True"/>
+
+            <Label Text="Kullanıcı Adı"/>
+            <Entry x:Name="usernameEntry" Placeholder="Kullanıcı Adı"/>
+            <Label Text="Şifre"/>
+            <Entry x:Name="userpasswordEntry"  IsPassword="True"/>
+            <Button Text="Giriş Yap" Clicked="signInButton"/>
+            <Button Text="Kayıt Ol" Clicked="signUpButton"/>
+
+
+        </StackLayout>
+    </StackLayout>
+</ContentPage>

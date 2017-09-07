@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Nautae.Views.Egitim">
+    <ContentPage.Content>
+        <StackLayout>
+            <StackLayout.Padding>
+                <OnIdiom x:TypeArguments="Thickness">
+                    <OnIdiom.Phone>0,0,0,0
+                    </OnIdiom.Phone>
+                </OnIdiom>
+            </StackLayout.Padding>
+            <Label Text="           Kategoriler" Font="12" />
+            <Button Text="Kokpit" HeightRequest="40" Font="10" BackgroundColor="SkyBlue" Clicked="Button_Kokpit"/>
+            <Button Text="Ceova" HeightRequest="40" Font="10" BackgroundColor="SkyBlue" Clicked="Button_Cenova"/>
+            <Button Text="Basustu" HeightRequest="40" Font="10" BackgroundColor="SkyBlue" Clicked="Button_Basustu"/>
+            <Button Text="Kopruustu" HeightRequest="40" Font="10" BackgroundColor="SkyBlue" Clicked="Button_Kopruustu"/>
+            <Button Text="Piano" HeightRequest="40" Font="10" BackgroundColor="SkyBlue" Clicked="Button_Piano"/>
+            <Button Text="Ana Yelken" HeightRequest="40" Font="10" BackgroundColor="SkyBlue" Clicked="Button_AnaYelken"/>
+            <Button Text="Serdumen" HeightRequest="40" Font="10" BackgroundColor="SkyBlue" Clicked="Button_Serdumen"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,3 +1,0 @@
-# Nautae
-# aayazokulu
-# aayazokulu
