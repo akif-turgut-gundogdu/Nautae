@@ -27878,10 +27878,10 @@
   },
   "project": {
     "restore": {
-      "projectUniqueName": "C:\\Users\\aturg\\OneDrive\\documents\\visual studio 2017\\Nautae\\Nautae\\Nautae.UWP\\Nautae.UWP.csproj",
+      "projectUniqueName": "C:\\Users\\aturg\\OneDrive\\Documents\\Visual Studio 2017\\Nautae\\Nautae\\Nautae.UWP\\Nautae.UWP.csproj",
       "projectName": "Nautae.UWP",
-      "projectPath": "C:\\Users\\aturg\\OneDrive\\documents\\visual studio 2017\\Nautae\\Nautae\\Nautae.UWP\\Nautae.UWP.csproj",
-      "projectJsonPath": "C:\\Users\\aturg\\OneDrive\\documents\\visual studio 2017\\Nautae\\Nautae\\Nautae.UWP\\project.json",
+      "projectPath": "C:\\Users\\aturg\\OneDrive\\Documents\\Visual Studio 2017\\Nautae\\Nautae\\Nautae.UWP\\Nautae.UWP.csproj",
+      "projectJsonPath": "C:\\Users\\aturg\\OneDrive\\Documents\\Visual Studio 2017\\Nautae\\Nautae\\Nautae.UWP\\project.json",
       "projectStyle": "ProjectJson"
     },
     "dependencies": {

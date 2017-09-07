@@ -1,0 +1,9 @@
+C:\Users\aturg\OneDrive\documents\visual studio 2017\Projects\Nautae\NautaeWebApi\bin\Debug\netcoreapp1.1\NautaeWebApi.deps.json
+C:\Users\aturg\OneDrive\documents\visual studio 2017\Projects\Nautae\NautaeWebApi\bin\Debug\netcoreapp1.1\NautaeWebApi.runtimeconfig.json
+C:\Users\aturg\OneDrive\documents\visual studio 2017\Projects\Nautae\NautaeWebApi\bin\Debug\netcoreapp1.1\NautaeWebApi.runtimeconfig.dev.json
+C:\Users\aturg\OneDrive\documents\visual studio 2017\Projects\Nautae\NautaeWebApi\bin\Debug\netcoreapp1.1\NautaeWebApi.dll
+C:\Users\aturg\OneDrive\documents\visual studio 2017\Projects\Nautae\NautaeWebApi\bin\Debug\netcoreapp1.1\NautaeWebApi.pdb
+C:\Users\aturg\OneDrive\documents\visual studio 2017\Projects\Nautae\NautaeWebApi\obj\Debug\netcoreapp1.1\NautaeWebApi.csprojResolveAssemblyReference.cache
+C:\Users\aturg\OneDrive\documents\visual studio 2017\Projects\Nautae\NautaeWebApi\obj\Debug\netcoreapp1.1\NautaeWebApi.AssemblyInfo.cs
+C:\Users\aturg\OneDrive\documents\visual studio 2017\Projects\Nautae\NautaeWebApi\obj\Debug\netcoreapp1.1\NautaeWebApi.dll
+C:\Users\aturg\OneDrive\documents\visual studio 2017\Projects\Nautae\NautaeWebApi\obj\Debug\netcoreapp1.1\NautaeWebApi.pdb
