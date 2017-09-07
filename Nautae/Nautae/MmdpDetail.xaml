@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Nautae.MmdpDetail"
+             Title="Detail">
+    <ScrollView>
+        <StackLayout>
+            <StackLayout.Padding>
+                <OnIdiom x:TypeArguments="Thickness">
+                    <OnIdiom.Phone>40,0,40,0
+                    </OnIdiom.Phone>
+                </OnIdiom>
+
+            </StackLayout.Padding>
+            <Button Image="ports.png" HeightRequest="200"
+        HorizontalOptions="FillAndExpand" Clicked="PlatformButton_Clicked"/>
+            <Button HeightRequest="200" 
+        HorizontalOptions="FillAndExpand" Image="web.png" Clicked="SimulationButton_Clicked"/>
+
+            <Button HeightRequest="200" HorizontalOptions="FillAndExpand" Image="tutorials.png" Clicked="Button_Clicked"/>
+            <BoxView HeightRequest="200" Color="Blue" />
+            <BoxView  HeightRequest="200" Color="Brown" 
+        HorizontalOptions="FillAndExpand" />
+        </StackLayout>
+    </ScrollView>
+</ContentPage>
