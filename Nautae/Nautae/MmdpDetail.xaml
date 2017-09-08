@@ -18,9 +18,6 @@
         HorizontalOptions="FillAndExpand" Image="web.png" Clicked="SimulationButton_Clicked"/>
 
             <Button HeightRequest="200" HorizontalOptions="FillAndExpand" Image="tutorials.png" Clicked="Button_Clicked"/>
-            <BoxView HeightRequest="200" Color="Blue" />
-            <BoxView  HeightRequest="200" Color="Brown" 
-        HorizontalOptions="FillAndExpand" />
         </StackLayout>
     </ScrollView>
 </ContentPage>
